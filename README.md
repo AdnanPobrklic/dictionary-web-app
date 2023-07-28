@@ -9,7 +9,7 @@
     - Play the audio pronunciation of the word (if available).
     - Clean and modern user interface.
 
-### Live Demo :
+### Live Demo : https://dictonary-adnanp.netlify.app/
 
     1. Go to the live demo link provided above or host the website on your local server.
 
