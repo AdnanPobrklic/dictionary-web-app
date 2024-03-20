@@ -18,7 +18,8 @@ body{
     height: 100dvh;
     background-color: var(--bg-color);
     color: var(--text-color);
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
 }
 
 .search-field{
