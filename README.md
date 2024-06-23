@@ -32,6 +32,9 @@ This is a simple dictionary website that allows users to search for English word
 
 
 ### Credits
+
     - [DictionaryApi](https://dictionaryapi.dev) - API
+    
     - Font Awesome - for the icons used in the website.
+    
     - Google Fonts - for the "Poppins" font used in the website.
